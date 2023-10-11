@@ -1,0 +1,14 @@
+C:\Users\Will\source\repos\CodeSamples\TestProject3\bin\Debug\net7.0\TestProject3.exe
+C:\Users\Will\source\repos\CodeSamples\TestProject3\bin\Debug\net7.0\TestProject3.deps.json
+C:\Users\Will\source\repos\CodeSamples\TestProject3\bin\Debug\net7.0\TestProject3.runtimeconfig.json
+C:\Users\Will\source\repos\CodeSamples\TestProject3\bin\Debug\net7.0\TestProject3.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject3\bin\Debug\net7.0\TestProject3.pdb
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.AssemblyInfo.cs
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\refint\TestProject3.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.pdb
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\TestProject3.genruntimeconfig.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject3\obj\Debug\net7.0\ref\TestProject3.dll

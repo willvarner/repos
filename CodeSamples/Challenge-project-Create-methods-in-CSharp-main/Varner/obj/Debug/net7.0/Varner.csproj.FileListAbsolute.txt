@@ -1,0 +1,14 @@
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\bin\Debug\net7.0\Varner.exe
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\bin\Debug\net7.0\Varner.deps.json
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\bin\Debug\net7.0\Varner.runtimeconfig.json
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\bin\Debug\net7.0\Varner.dll
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\bin\Debug\net7.0\Varner.pdb
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.AssemblyInfo.cs
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.dll
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\refint\Varner.dll
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.pdb
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\Varner.genruntimeconfig.cache
+C:\Users\Will\source\repos\CodeSamples\Challenge-project-Create-methods-in-CSharp-main\Varner\obj\Debug\net7.0\ref\Varner.dll

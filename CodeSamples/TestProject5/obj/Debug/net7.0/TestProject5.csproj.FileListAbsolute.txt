@@ -1,0 +1,14 @@
+C:\Users\Will\source\repos\CodeSamples\TestProject5\bin\Debug\net7.0\TestProject5.exe
+C:\Users\Will\source\repos\CodeSamples\TestProject5\bin\Debug\net7.0\TestProject5.deps.json
+C:\Users\Will\source\repos\CodeSamples\TestProject5\bin\Debug\net7.0\TestProject5.runtimeconfig.json
+C:\Users\Will\source\repos\CodeSamples\TestProject5\bin\Debug\net7.0\TestProject5.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject5\bin\Debug\net7.0\TestProject5.pdb
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.AssemblyInfo.cs
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\refint\TestProject5.dll
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.pdb
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\TestProject5.genruntimeconfig.cache
+C:\Users\Will\source\repos\CodeSamples\TestProject5\obj\Debug\net7.0\ref\TestProject5.dll
