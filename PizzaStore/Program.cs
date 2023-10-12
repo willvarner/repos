@@ -1,6 +1,8 @@
 // is this adding a namespace?
 using Microsoft.OpenApi.Models;
 
+using PizzaStore.DB;
+
 // creates a "builder" which is a minimalAPI app tool I guess
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +21,7 @@ var app = builder.Build();
 // enable CORS?
 //builder.Services.AddCors(options => {});
 
-
+// Enable Swagger
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
@@ -27,13 +29,15 @@ app.UseSwaggerUI(c =>
 });
 
 
-// map a Get request for app. 
-app.MapGet("/", () => "Hello World!");
-
-
 // Use CORS?
 //app.UseCors("Some Unique Text");
 
+
+app.MapGet("/pizzas/{id}", (int id) => PizzaDB.GetPizza(id));
+app.MapGet("/pizzas", () => PizzaDB.GetPizzas());
+app.MapPost("/pizzas", (Pizza pizza) => PizzaDB.CreatePizza(pizza));
+app.MapPut("/pizzas", (Pizza pizza) => PizzaDB.UpdatePizza(pizza));
+app.MapDelete("/pizzas/{id}", (int id) => PizzaDB.RemovePizza(id));
 
 // run the application. It will run on a random localhost port unless otherwise configured.
 app.Run();
