@@ -1,0 +1,7 @@
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.AssemblyInfo.cs
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Will\Documents\GitHub\repos\PizzaStoreWithEntityFramework\obj\Debug\net6.0\PizzaStoreWithEntityFramework.MvcApplicationPartsAssemblyInfo.cache
