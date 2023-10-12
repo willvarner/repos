@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Will\\source\\repos\\PizzaStore\\PizzaStore.csproj": {}
+    "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Will\\source\\repos\\PizzaStore\\PizzaStore.csproj": {
+    "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Will\\source\\repos\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "C:\\Users\\Will\\source\\repos\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Will\\source\\repos\\PizzaStore\\obj\\",
+        "outputPath": "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.4, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [

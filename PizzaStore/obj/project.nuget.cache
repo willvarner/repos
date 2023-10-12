@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MwYfRPdYXgn71s7lhl/sI2Jv/A6XR6BZH8ZSc89mN4uumZWug6SCJRDnKv8Q+bClcJ2/h4pSvYtPTTbWcxTl0w==",
+  "dgSpecHash": "Vfog57i2Af2cKR0SuMJ0n8EFQOwApf6P+d/8QyYVbmVeEj3mmjxkuO2NHyMBM5ZHijPdX8gHkZKnWYcGYZ2RNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Will\\source\\repos\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "C:\\Users\\Will\\Documents\\GitHub\\repos\\PizzaStore\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Will\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Will\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
-    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
-    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
-    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Will\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
