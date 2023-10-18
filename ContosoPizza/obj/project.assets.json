@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Will\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\Will\\Documents\\GitHub\\repos\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\Will\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "C:\\Users\\Will\\Documents\\GitHub\\repos\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Will\\source\\repos\\ContosoPizza\\obj\\",
+      "outputPath": "C:\\Users\\Will\\Documents\\GitHub\\repos\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -499,7 +499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
